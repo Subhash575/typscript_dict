@@ -1,0 +1,8 @@
+node_modules/ 
+*.log  
+
+# *.js
+dist/
+
+# TypeScript build info
+tsconfig.tsbuildinfo
